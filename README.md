@@ -93,5 +93,73 @@ Now you're ready to use pre-commit hooks in your project! Explore the list of ho
 
 ## 🤝Contributing
 
+We welcome contributions to **Awesome Precommit**! Whether you're submitting a new pre-commit hook, suggesting improvements, or fixing issues, your contributions are greatly appreciated. Here's how you can contribute:
+
+### 🔧 Guidelines for Contributions
+
+1. **New Hooks and Tools**:
+   - Ensure the hook or tool is actively maintained.
+   - Provide a brief description and a link to the repository.
+   - Mention its primary use case (e.g., linting, formatting, security).
+
+2. **Improvements or Fixes**:
+   - Provide a clear description of the improvement or fix.
+   - If you're fixing an issue, link to the relevant GitHub issue or discussion.
+
+3. **Documentation Updates**:
+   - If you notice errors or areas where documentation can be improved, feel free to suggest updates.
+
+4. **Respect Project Structure**:
+   - Follow the existing format of the list and place items under the correct category.
+   - Ensure links, descriptions, and markdown formatting are consistent.
+
+### 🛠 How to Contribute
+
+1. **Fork the Repository**  
+   Click the "Fork" button to create your own copy of the repository.
+
+2. **Clone the Repository**  
+   Clone your forked repository locally:
+   ```bash
+   git clone https://github.com/your-username/awesome-precommit.git
+   cd awesome-precommit
+```
+
+3. **Create a New Branch**  
+    Create a new branch for your feature or fix:
+    
+    ```bash
+    git checkout -b feature-or-fix-name
+    ```
+    
+4. **Make Changes**  
+    Make your changes, and ensure you follow the guidelines.
+    
+5. **Test Your Changes**  
+    If applicable, test your changes to ensure they work as expected.
+    
+6. **Commit and Push**  
+    Commit your changes with a descriptive message:
+    
+    ```bash
+    git commit -m "Add/Update [description of change]"
+    git push origin feature-or-fix-name
+    ```
+    
+7. **Submit a Pull Request**  
+    Go to the original repository and submit a pull request from your branch.
+    
+
+### 🚀 Review Process
+
+- Your pull request will be reviewed by maintainers or contributors.
+- Feedback may be provided, and you may be asked to make changes.
+- Once approved, your contribution will be merged into the main branch.
+
+### 📜 Code of Conduct
+
+Please be respectful and considerate when contributing. This project adheres to a Code of Conduct to maintain a positive and inclusive environment.
+
+Thank you for helping improve **Awesome Precommit**!
 
 ## ⚖️License
