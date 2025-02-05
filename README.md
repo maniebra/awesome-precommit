@@ -120,17 +120,17 @@ We welcome contributions to **Awesome Precommit**! Whether you're submitting a n
 
 2. **Clone the Repository**  
    Clone your forked repository locally:
-   ```bash
-   git clone https://github.com/your-username/awesome-precommit.git
-   cd awesome-precommit
+```bash
+git clone https://github.com/your-username/awesome-precommit.git
+cd awesome-precommit
 ```
 
 3. **Create a New Branch**  
     Create a new branch for your feature or fix:
-    
-    ```bash
-    git checkout -b feature-or-fix-name
-    ```
+
+```bash
+git checkout -b feature-or-fix-name
+```
     
 4. **Make Changes**  
     Make your changes, and ensure you follow the guidelines.
@@ -141,10 +141,10 @@ We welcome contributions to **Awesome Precommit**! Whether you're submitting a n
 6. **Commit and Push**  
     Commit your changes with a descriptive message:
     
-    ```bash
-    git commit -m "Add/Update [description of change]"
-    git push origin feature-or-fix-name
-    ```
+```bash
+git commit -m "Add/Update [description of change]"
+git push origin feature-or-fix-name
+```
     
 7. **Submit a Pull Request**  
     Go to the original repository and submit a pull request from your branch.
