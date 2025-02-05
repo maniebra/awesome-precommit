@@ -7,7 +7,7 @@ A curated list of awesome pre-commit hooks, tools, and resources to improve your
 ## 📃Table of Contents
 
 1. [Introduction](#ℹ️Introduction)
-2. [Categories of Pre-commit Hooks](#categories)
+2. [Languages](#languages)
 3. [Contributing](#contributing)
 4. [License](#%EF%B8%8Flicense)
 
@@ -87,9 +87,9 @@ pre-commit run --all-files
 
 Now you're ready to use pre-commit hooks in your project! Explore the list of hooks below to find tools that fit your needs.
 
-## 📚Categories
+## 🌐Languages
 
-
+- [Python](languages/Python.md)
 
 ## 🤝Contributing
 
