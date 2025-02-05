@@ -2,52 +2,27 @@
 
 A curated list of awesome pre-commit hooks, tools, and resources to improve your development workflow.
 
----
+------
 
 ## 📃Table of Contents
-1. [Introduction](#ℹ️Introduction)
-2. [What is Pre-commit?](#💡what-is-pre-commit)
-4. [Getting Started](#getting-started)
-5. [Categories of Pre-commit Hooks](#categories-of-pre-commit-hooks)
-6. [Popular Pre-commit Hooks](#popular-pre-commit-hooks)
-7. [Tools and Integrations](#tools-and-integrations)
-8. [Contributing](#contributing)
-9. [License](#license)
 
----
+1. [Introduction](#ℹ️Introduction)
+2. [Categories of Pre-commit Hooks](#📚categories)
+3. [Contributing](#🤝Contributing)
+4. [License](#⚖️License)
 
 ## ℹ️Introduction
 
 
----
+### What is Pre-commit?
 
-## 💡What is Pre-commit?
-
-
----
-
-## 🏃‍♂️Getting Started
+### Getting Started
 
 
----
+## 📚Categories
 
-## 📚Categories of Pre-commit Hooks
-
-
----
-
-## 🏆Popular Pre-commit Hooks
-
-
----
-
-## 🛠️Tools and Integrations
-
-
----
 
 ## 🤝Contributing
 
----
 
 ## ⚖️License
